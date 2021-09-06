@@ -3,7 +3,6 @@
  *  Copyright 2021 James Karlinski
  */
 
-
 package org.example;
 
 import java.util.Scanner;
